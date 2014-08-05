@@ -1,0 +1,1 @@
+Je potreba 2x teplomer DS1820 cas DS1302 a vsetky kniznice
